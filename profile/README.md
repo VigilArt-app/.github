@@ -9,7 +9,7 @@
 <p align="center">
 <strong>Our goal:</strong> help artists track where their artworks appear online.
 
-Currently working on a website and a mobile app!
+Currently working on a website and a mobile app.
 </p>
 </div>
 
