@@ -18,5 +18,5 @@ Currently working on a website and a mobile app.
 <p align="center"><img width="800" alt="Vigilart workflow" src="https://github.com/user-attachments/assets/0a53d857-a542-464f-ae9d-f791c0c0aa60" /></p>
 
 - **Upload** your artworks to the app.
-- Get regularly **notified** when your artworks appear online, all in one dashboard.
+- Get regularly **notified** about where your artworks appear online, all in one dashboard.
 - **Take action** with automatically generated DMCA reports to remove unauthorized uses of your artworks.
