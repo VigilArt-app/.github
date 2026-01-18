@@ -7,14 +7,15 @@
 # VigilArt
 
 <p align="center">
+<strong>Our goal</strong>: help artists track where their work is used online.
+
 Currently working on a website and a mobile app.
 </p>
 </div>
 
 ## About
 
-<p align="center"><img width="800" alt="Vigilart workflow" src="https://github.com/user-attachments/assets/0a53d857-a542-464f-ae9d-f791c0c0aa60" /></p>
+<p align="center"><img width="800" alt="Vigilart workflow" src="https://github.com/user-attachments/assets/6952cef6-bfff-4dfb-9968-e8dd90db694a" /></p>
 
-- **Upload** your artworks to the app.
-- Get regularly **notified** about where your artworks appear online, all in one dashboard.
-- **Take action** with automatically generated DMCA reports to remove unauthorized uses of your artworks.
+- Upload your artworks to the app.
+- Get notified about where your artworks appear online, all in one dashboard.
