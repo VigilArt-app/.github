@@ -7,7 +7,7 @@
 # VigilArt
 
 <p align="center">
-<strong>Our goal:</strong> help artists protect their work online.
+We’re building a tool to help artists track where their work is reposted online.
 
 Currently working on a website and a mobile app.
 </p>
