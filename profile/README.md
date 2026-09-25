@@ -15,6 +15,6 @@ Currently working on a website and a mobile app.
 
 ## About
 
-- Find where your artwork appears online
-- Review potential matches
+- Upload your artwork
+- Find where it appears online
 - Prepare takedown notices when needed
